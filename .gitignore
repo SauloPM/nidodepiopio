@@ -1,0 +1,11 @@
+# ––––––––––––––– #
+#     GENERAL     #
+# ––––––––––––––– #
+
+# Sistema
+.DS_Store
+.htaccess
+
+# PHP
+.php.ini
+info.php
